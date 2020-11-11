@@ -1588,19 +1588,19 @@ footer .nav__footer ul li a:hover:before {
 }
 
 .slider-item:nth-child(3n + 1) {
-  background-image: url(../img/img1.png);
+  background-image: url(img/img1.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider-item:nth-child(3n + 2) {
-  background-image: url(../img/img2.png);
+  background-image: url(img/img2.png);
   background-size: cover;
 }
 
 .slider-item:nth-child(3n + 3) {
   background-size: cover;
-  background-image: url(../img/img3.png);
+  background-image: url(img/img3.png);
 }
 
 .wrapper-slider {
